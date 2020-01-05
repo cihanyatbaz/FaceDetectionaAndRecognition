@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\bin\Debug\FaceDetectionaAndRecognition.exe.config
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\bin\Debug\FaceDetectionaAndRecognition.exe
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\bin\Debug\FaceDetectionaAndRecognition.pdb
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.Form1.resources
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.Properties.Resources.resources
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.csproj.CopyComplete
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.exe
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.pdb
+C:\Users\PC\source\repos\FaceDetectionaAndRecognition\FaceDetectionaAndRecognition\obj\Debug\FaceDetectionaAndRecognition.csprojAssemblyReference.cache
