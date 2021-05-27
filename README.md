@@ -8,3 +8,6 @@
 First of all, in order to run the project, you need to download the Emgu.CV library via the C # program to your computer.
 
 
+![Alt text](FaceDetection_Recognition.gif) / 
+
+![](FaceDetection_Recognition.gif)
