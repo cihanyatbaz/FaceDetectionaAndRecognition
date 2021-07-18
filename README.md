@@ -13,4 +13,4 @@
 
 * At first, I showed the persons from the database. Later, I added new persons to the database and then the program recognized them.
 
-![](FaceDetection_Recognition.gif)
+![](FaceDetection_Recognition.gif) 
